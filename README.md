@@ -11,8 +11,8 @@ Santiago R. Soler<sup>2,3</sup>
 
 Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”. 
 Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions). 
-Much of this confusion likely stems from the lack of widely available tools for performing the more corrections needed to arrive at a geophysically meaningful gravity disturbance. 
-For example free-air corrections are completely unnecessary since analytical expressions for theoretical gravity at any point have existed for over a decade. 
+Much of this confusion likely stems from the lack of widely available tools for performing the corrections needed to arrive at a geophysically meaningful gravity disturbance. 
+For example, free-air corrections are completely unnecessary since analytical expressions for theoretical gravity at any point have existed for over a decade. 
 Since this is not easily done in a spreadsheet or short script, modern tools for processing and modelling gravity data for geophysics are needed. 
 These tools must be trustworthy (i.e., extensively tested) and designed with software development and geophysical best practices in mind.
 
