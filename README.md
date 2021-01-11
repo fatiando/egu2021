@@ -2,6 +2,7 @@
 
 Leonardo Uieda<sup>1</sup>,
 Santiago R. Soler<sup>2,3</sup>
+Agustina Pesce<sup>2,3</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
