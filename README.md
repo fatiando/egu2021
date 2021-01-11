@@ -2,13 +2,16 @@
 
 Leonardo Uieda<sup>1</sup>,
 Santiago R. Soler<sup>2,3</sup>
-Agustina Pesce<sup>2,3</sup>
+Agustina Pesce<sup>2,3</sup>,
+Lorenzo Perozzi<sup>4</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
 > <sup>2</sup>CONICET, Argentina
 > <br>
 > <sup>3</sup>Instituto Geofı́sico Sismológico Volponi, UNSJ, Argentina
+> <br>
+> <sup>4</sup>Department of Earth Science, University of Geneva, Switzerland
 
 Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”. 
 Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions). 
