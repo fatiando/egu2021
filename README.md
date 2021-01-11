@@ -1,7 +1,8 @@
 # Harmonica and Boule: Modern Python tools for geophysical gravimetry
 
 Leonardo Uieda<sup>1</sup>,
-Santiago R. Soler<sup>2,3</sup>,
+Santiago R. Soler<sup>2,3</sup>
+Agustina Pesce<sup>2,3</sup>,
 Lorenzo Perozzi<sup>4</sup>
 
 > <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
