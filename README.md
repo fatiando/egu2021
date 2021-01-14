@@ -31,7 +31,7 @@ The first release of Harmonica was focused on implementing methods for processin
 Current work is directed towards implementing a processing pipeline for gravity data, including topographic corrections in Cartesian and spherical coordinates, atmospheric corrections, and more. 
 The software is still in early stages of development and design and would benefit greatly from community involvement and feedback.
 
-Boule implements ellipsoids, associated coordinate conversion and normal gravity calculations using analytical solutions for gravity fields at any point outside of the masses. 
+Boule implements reference ellipsoids (including oblate ellipsoids, spheres, and soon triaxial ellipsoids), conversions between ellipsoidal and geocentric spherical coordinates, and normal gravity calculations using analytical solutions for gravity fields at any point outside of the ellipsoid. 
 It includes ellipsoids for the Earth as well as other planetary bodies in the solar system, like Mars, the Moon, Venus, and Mercury. 
 This enables the calculation of gravity disturbances for Earth and planetary data without the need for free-air corrections. 
 Boule was created out of the shared needs of Harmonica, SHTools (https://github.com/SHTOOLS), and pygeoid (https://github.com/ioshchepkov/pygeoid) and is developed with input from developers of these projects.
