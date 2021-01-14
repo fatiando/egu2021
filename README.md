@@ -27,11 +27,11 @@ We present the Python libraries Harmonica and Boule, which are part of the Fatia
 Both tools are open-source under the permissive BSD license and are developed in the open by a community of geoscientists and programmers.
 
 Harmonica provides tools for processing, forward modelling, and inversion of gravity and magnetic data. 
-The first release of Harmonica has focused on implementing methods for processing and interpolation with the equivalent source technique, as well as forward modelling with right-rectangular prisms, point sources, and tesseroids. 
+The first release of Harmonica was focused on implementing methods for processing and interpolation with the equivalent source technique, as well as forward modelling with right-rectangular prisms, point sources, and tesseroids. 
 Current work is directed towards implementing a processing pipeline for gravity data, including topographic corrections in Cartesian and spherical coordinates, atmospheric corrections, and more. 
 The software is still in early stages of development and design and would benefit greatly from community involvement and feedback.
 
-Boule implements ellipsoids and associated coordinate conversion and normal gravity calculations using analytical solutions for gravity fields at any point outside of the masses. 
+Boule implements reference ellipsoids (including oblate ellipsoids, spheres, and soon triaxial ellipsoids), conversions between ellipsoidal and geocentric spherical coordinates, and normal gravity calculations using analytical solutions for gravity fields at any point outside of the ellipsoid. 
 It includes ellipsoids for the Earth as well as other planetary bodies in the solar system, like Mars, the Moon, Venus, and Mercury. 
 This enables the calculation of gravity disturbances for Earth and planetary data without the need for free-air corrections. 
 Boule was created out of the shared needs of Harmonica, SHTools (https://github.com/SHTOOLS), and pygeoid (https://github.com/ioshchepkov/pygeoid) and is developed with input from developers of these projects.
