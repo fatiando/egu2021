@@ -15,6 +15,13 @@ Mark A. Wieczorek<sup>5</sup>
 > <sup>4</sup>Department of Earth Science, University of Geneva, Switzerland
 > <br>
 > <sup>5</sup>Laboratoire Lagrange, Université Côte d'Azur, Observatoire de la Côte d'Azur, CNRS, Nice, France
+ 
+| | Information |
+|---:|:----|
+| doi | [10.5194/egusphere-egu21-8291](https://doi.org/10.5194/egusphere-egu21-8291) |
+| Abstract | EGU21-8291 |
+| Session | [G1.2: Mathematical methods for the analysis of potential field data and geodetic time series](https://meetingorganizer.copernicus.org/EGU21/session/39913) |
+| When | Wednesday 28 April 2021 / 13:34 – 13:36 |
 
 Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”. 
 Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions). 
@@ -37,6 +44,13 @@ This enables the calculation of gravity disturbances for Earth and planetary dat
 Boule was created out of the shared needs of Harmonica, SHTools (https://github.com/SHTOOLS), and pygeoid (https://github.com/ioshchepkov/pygeoid) and is developed with input from developers of these projects.
 
 We welcome participation from the wider geophysical community, irrespective of programming skill level and experience, and are actively searching for interested developers and users to get involved in shaping the future of these projects.
+
+## Citation
+
+> Uieda, L., Soler, S. R., Pesce, A., Perozzi, L., and Wieczorek, M. A.: 
+> Harmonica and Boule: Modern Python tools for geophysical gravimetry, 
+> EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8291, 
+> https://doi.org/10.5194/egusphere-egu21-8291, 2021.
 
 ## License
 
