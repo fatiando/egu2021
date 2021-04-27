@@ -47,6 +47,20 @@ Boule was created out of the shared needs of Harmonica, SHTools (https://github.
 
 We welcome participation from the wider geophysical community, irrespective of programming skill level and experience, and are actively searching for interested developers and users to get involved in shaping the future of these projects.
 
+## Resources
+
+Find out more:
+
+* Harmonica documentation: https://www.fatiando.org/harmonica
+* Boule documentation: https://www.fatiando.org/boule
+* Tutorial for Boule and Harmonica at Transform 2021: https://youtu.be/0bxZcCAr6bw and https://github.com/fatiando/transform21
+
+Get involved in the project:
+
+* Join our Slack chatroom: http://contact.fatiando.org
+* Come to an open community call: https://www.youtube.com/playlist?list=PLPA_RM8wsOqIEBLICo3v7f_A1WnLcwJld
+* Follow Fatiando a Terra on Twitter: https://twitter.com/fatiandoaterra
+
 ## Citation
 
 > Uieda, L., Soler, S. R., Pesce, A., Perozzi, L., and Wieczorek, M. A.: 
