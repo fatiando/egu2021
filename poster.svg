@@ -1707,26 +1707,26 @@
          style="font-size:4.23333px;fill:#ffffff;stroke-width:0.1826" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.150681px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.126696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.150681px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.126696"
        x="160.41478"
        y="61.259048"
        id="text567"><tspan
          sodipodi:role="line"
          x="160.41478"
          y="61.259048"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan176"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Medium';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.126696"
-   id="tspan242">Leonardo Uieda¹, </tspan>Santiago R. Soler²³,</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
+   id="tspan361">Leonardo Uieda</tspan>¹, Santiago R. Soler²³,</tspan><tspan
          sodipodi:role="line"
          x="160.41478"
-         y="66.388351"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         y="67.756172"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan252">Agustina Pesce²³, Lorenzo Perozzi⁴,</tspan><tspan
          sodipodi:role="line"
          x="160.49013"
-         y="71.517654"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         y="74.253296"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan173">Mark A. Wieczorek⁵</tspan></text>
     <g
        id="g960"
@@ -1734,58 +1734,58 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-mark.jpg"
          xlink:href="images/headshot-mark.jpg"
-         width="20"
-         height="20"
-         preserveAspectRatio="none"
-         id="image463"
-         x="298.39276"
-         y="64.778275"
+         transform="matrix(0.80666696,0,0,0.80666696,-59.938185,-14.904886)"
          clip-path="url(#clipPath643)"
-         transform="matrix(0.80666696,0,0,0.80666696,-59.938185,-14.904886)" />
+         y="64.778275"
+         x="298.39276"
+         id="image463"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-lorenzo.png"
          xlink:href="images/headshot-lorenzo.png"
-         width="20"
-         height="20"
-         preserveAspectRatio="none"
-         id="image477"
-         x="280.0574"
-         y="63.479362"
+         transform="matrix(0.80666696,0,0,0.80666696,-61.238391,-13.963202)"
          clip-path="url(#clipPath639)"
-         transform="matrix(0.80666696,0,0,0.80666696,-61.238391,-13.963202)" />
+         y="63.479362"
+         x="280.0574"
+         id="image477"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-agustina.jpg"
          xlink:href="images/headshot-agustina.jpg"
-         width="20"
-         height="20"
-         preserveAspectRatio="none"
-         id="image491"
-         x="295"
-         y="50"
+         transform="matrix(0.80666696,0,0,0.80666696,-89.382823,-2.8448043)"
          clip-path="url(#clipPath635)"
-         transform="matrix(0.80666696,0,0,0.80666696,-89.382823,-2.8448043)" />
+         y="50"
+         x="295"
+         id="image491"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-santiago.jpg"
          xlink:href="images/headshot-santiago.jpg"
-         width="20"
-         height="20"
-         preserveAspectRatio="none"
-         id="image449"
-         x="260"
-         y="30"
+         transform="matrix(0.80666696,0,0,0.80666696,-77.240212,13.138503)"
          clip-path="url(#clipPath631)"
-         transform="matrix(0.80666696,0,0,0.80666696,-77.240212,13.138503)" />
+         y="30"
+         x="260"
+         id="image449"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-leo.jpg"
          xlink:href="images/headshot-leo.jpg"
-         width="30"
-         height="30"
-         preserveAspectRatio="none"
-         id="image55"
-         x="280"
-         y="10"
+         transform="matrix(0.53778123,0,0,0.53778123,-34.176312,31.832799)"
          clip-path="url(#clipPath537)"
-         transform="matrix(0.53778123,0,0,0.53778123,-34.176312,31.832799)" />
+         y="10"
+         x="280"
+         id="image55"
+         preserveAspectRatio="none"
+         height="30"
+         width="30" />
     </g>
     <text
        xml:space="preserve"
@@ -2039,12 +2039,12 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-grid.png"
          xlink:href="images/bushveld-grid.png"
-         width="94"
-         height="39.938072"
-         preserveAspectRatio="none"
-         id="image833"
+         y="118.80554"
          x="215.5"
-         y="118.80554" />
+         id="image833"
+         preserveAspectRatio="none"
+         height="39.938072"
+         width="94" />
     </g>
     <g
        id="g1000">
@@ -2151,12 +2151,12 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-points.png"
          xlink:href="images/bushveld-points.png"
-         width="94"
-         height="39.201794"
-         preserveAspectRatio="none"
-         id="image819"
+         y="70.503922"
          x="215.5"
-         y="70.503922" />
+         id="image819"
+         preserveAspectRatio="none"
+         height="39.201794"
+         width="94" />
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -2172,21 +2172,21 @@
     <image
        sodipodi:absref="/home/leo/talk/egu2021/images/gravity-diturbance.png"
        xlink:href="images/gravity-diturbance.png"
-       width="91.995485"
-       height="41"
-       preserveAspectRatio="none"
-       id="image1050"
+       y="122.52654"
        x="11.701939"
-       y="122.52654" />
+       id="image1050"
+       preserveAspectRatio="none"
+       height="41"
+       width="91.995485" />
     <image
        sodipodi:absref="/home/leo/talk/egu2021/images/normal-gravity.png"
        xlink:href="images/normal-gravity.png"
-       width="91.34763"
-       height="41"
-       preserveAspectRatio="none"
-       id="image1064"
+       y="71.209465"
        x="10.886099"
-       y="71.209465" />
+       id="image1064"
+       preserveAspectRatio="none"
+       height="41"
+       width="91.34763" />
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
