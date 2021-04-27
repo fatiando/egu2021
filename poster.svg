@@ -1688,11 +1688,11 @@
          id="tspan39"
          x="160.98363"
          y="16.543591"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26854px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.312869">Modern Python tools for </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.26854px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.312869">Modern Python tools for </tspan><tspan
          sodipodi:role="line"
          x="161.12845"
          y="27.66584"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26854px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.312869"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.26854px;font-family:'EB Garamond';-inkscape-font-specification:'EB Garamond Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.312869"
          id="tspan397">geophysical gravimetry</tspan></text>
     <text
        xml:space="preserve"
@@ -1709,28 +1709,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.150681px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.126696"
        x="160.41478"
-       y="59.671547"
+       y="61.259048"
        id="text567"><tspan
          sodipodi:role="line"
          x="160.41478"
-         y="59.671547"
+         y="61.259048"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan176"><tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Medium';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.126696"
    id="tspan242">Leonardo Uieda¹, </tspan>Santiago R. Soler²³,</tspan><tspan
          sodipodi:role="line"
          x="160.41478"
-         y="64.80085"
+         y="66.388351"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan252">Agustina Pesce²³, Lorenzo Perozzi⁴,</tspan><tspan
          sodipodi:role="line"
          x="160.49013"
-         y="69.930153"
+         y="71.517654"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
          id="tspan173">Mark A. Wieczorek⁵</tspan></text>
     <g
        id="g960"
-       transform="translate(3.3494035)">
+       transform="translate(3.3494035,1.5875)">
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-mark.jpg"
          xlink:href="images/headshot-mark.jpg"
@@ -1871,15 +1871,15 @@
          id="tspan1660">Python community (SHTools and Harmonica). </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.52778px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
-       x="12.158887"
-       y="167.55917"
+       style="font-size:3.52778px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+       x="55.018822"
+       y="169.24724"
        id="text1229-0-4-0"><tspan
          sodipodi:role="line"
-         x="12.158887"
-         y="167.55917"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
-         id="tspan1694-4">Map of normal gravity at the surface of the Earth</tspan></text>
+         x="55.018822"
+         y="169.24724"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         id="tspan1694-4">Gravity disturbance from the analytical normal gravity.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.4;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
@@ -2169,5 +2169,34 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
            id="tspan1694-4-2-1">Observed gravity values for the Bushveld Complex, South Africa.</tspan></text>
     </g>
+    <image
+       sodipodi:absref="/home/leo/talk/egu2021/images/gravity-diturbance.png"
+       xlink:href="images/gravity-diturbance.png"
+       y="122.52654"
+       x="11.701939"
+       id="image1050"
+       preserveAspectRatio="none"
+       height="41"
+       width="91.995485" />
+    <image
+       sodipodi:absref="/home/leo/talk/egu2021/images/normal-gravity.png"
+       xlink:href="images/normal-gravity.png"
+       y="71.209465"
+       x="10.886099"
+       id="image1064"
+       preserveAspectRatio="none"
+       height="41"
+       width="91.34763" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+       x="15.700781"
+       y="117.7136"
+       id="text1229-0-4-0-8"><tspan
+         sodipodi:role="line"
+         x="15.700781"
+         y="117.7136"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
+         id="tspan1694-4-7">Normal gravity (WGS84) at the surface of the Earth.</tspan></text>
   </g>
 </svg>
