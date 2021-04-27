@@ -23,6 +23,8 @@ Mark A. Wieczorek<sup>5</sup>
 | Session | [G1.2: Mathematical methods for the analysis of potential field data and geodetic time series](https://meetingorganizer.copernicus.org/EGU21/session/39913) |
 | When | Wednesday 28 April 2021 / 13:34 – 13:36 |
 
+![vPICO poster for a quick 2-minute presentation of the abstract.](https://github.com/fatiando/egu2021/raw/main/poster.png)
+
 Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”. 
 Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions). 
 Much of this confusion likely stems from the lack of widely available tools for performing the corrections needed to arrive at a geophysically meaningful gravity disturbance. 
