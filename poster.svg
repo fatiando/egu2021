@@ -1659,12 +1659,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.132292px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;stroke-width:0.111234"
-       x="261.49316"
-       y="177.42491"
+       x="212.91692"
+       y="176.07756"
        id="text567-3"><tspan
          sodipodi:role="line"
-         x="261.62546"
-         y="177.42491"
+         x="213.04921"
+         y="176.07756"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.111234"
          id="tspan1121">¹University of Liverpool, UK | ²CONICET &amp; ³Universidad Nacional de San Juan, Argentina | ⁴University of Geneva, Switzerland | ⁵Observatoire de la Côte d'Azur, France</tspan></text>
     <text
@@ -1734,58 +1734,58 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-mark.jpg"
          xlink:href="images/headshot-mark.jpg"
-         transform="matrix(0.80666696,0,0,0.80666696,-59.938185,-14.904886)"
-         clip-path="url(#clipPath643)"
-         y="64.778275"
-         x="298.39276"
-         id="image463"
-         preserveAspectRatio="none"
+         width="20"
          height="20"
-         width="20" />
+         preserveAspectRatio="none"
+         id="image463"
+         x="298.39276"
+         y="64.778275"
+         clip-path="url(#clipPath643)"
+         transform="matrix(0.80666696,0,0,0.80666696,-59.938185,-14.904886)" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-lorenzo.png"
          xlink:href="images/headshot-lorenzo.png"
-         transform="matrix(0.80666696,0,0,0.80666696,-61.238391,-13.963202)"
-         clip-path="url(#clipPath639)"
-         y="63.479362"
-         x="280.0574"
-         id="image477"
-         preserveAspectRatio="none"
+         width="20"
          height="20"
-         width="20" />
+         preserveAspectRatio="none"
+         id="image477"
+         x="280.0574"
+         y="63.479362"
+         clip-path="url(#clipPath639)"
+         transform="matrix(0.80666696,0,0,0.80666696,-61.238391,-13.963202)" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-agustina.jpg"
          xlink:href="images/headshot-agustina.jpg"
-         transform="matrix(0.80666696,0,0,0.80666696,-89.382823,-2.8448043)"
-         clip-path="url(#clipPath635)"
-         y="50"
-         x="295"
-         id="image491"
-         preserveAspectRatio="none"
+         width="20"
          height="20"
-         width="20" />
+         preserveAspectRatio="none"
+         id="image491"
+         x="295"
+         y="50"
+         clip-path="url(#clipPath635)"
+         transform="matrix(0.80666696,0,0,0.80666696,-89.382823,-2.8448043)" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-santiago.jpg"
          xlink:href="images/headshot-santiago.jpg"
-         transform="matrix(0.80666696,0,0,0.80666696,-77.240212,13.138503)"
-         clip-path="url(#clipPath631)"
-         y="30"
-         x="260"
-         id="image449"
-         preserveAspectRatio="none"
+         width="20"
          height="20"
-         width="20" />
+         preserveAspectRatio="none"
+         id="image449"
+         x="260"
+         y="30"
+         clip-path="url(#clipPath631)"
+         transform="matrix(0.80666696,0,0,0.80666696,-77.240212,13.138503)" />
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/headshot-leo.jpg"
          xlink:href="images/headshot-leo.jpg"
-         transform="matrix(0.53778123,0,0,0.53778123,-34.176312,31.832799)"
-         clip-path="url(#clipPath537)"
-         y="10"
-         x="280"
-         id="image55"
-         preserveAspectRatio="none"
+         width="30"
          height="30"
-         width="30" />
+         preserveAspectRatio="none"
+         id="image55"
+         x="280"
+         y="10"
+         clip-path="url(#clipPath537)"
+         transform="matrix(0.53778123,0,0,0.53778123,-34.176312,31.832799)" />
     </g>
     <text
        xml:space="preserve"
@@ -1891,8 +1891,8 @@
          y="98.433945"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          id="tspan703"><tspan
-   id="tspan763"
-   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">We are still evolving our goals and scope. </tspan></tspan><tspan
+           id="tspan763"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">We are still evolving our goals and scope. </tspan></tspan><tspan
          sodipodi:role="line"
          x="159.90736"
          y="104.8545"
@@ -1913,7 +1913,7 @@
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="matrix(0.12015019,0,0,0.12015019,185.86014,42.475322)">
+       transform="matrix(0.12015019,0,0,0.12015019,185.86014,41.416988)">
       <path
          inkscape:export-ydpi="450"
          inkscape:export-xdpi="450"
@@ -2003,18 +2003,18 @@
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.5;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        x="181.45862"
-       y="161.25235"
+       y="160.19403"
        id="text1229-0-1-7-3-1"><tspan
          sodipodi:role="line"
          x="181.45862"
-         y="161.25235"
+         y="160.19403"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
          id="tspan1557-1-8-0">Part of the <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;letter-spacing:0px;text-anchor:end"
    id="tspan2650">Fatiando a Terra</tspan> project</tspan><tspan
          sodipodi:role="line"
          x="181.45862"
-         y="167.81015"
+         y="166.75183"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
          id="tspan2652">www.fatiando.org</tspan></text>
     <g
@@ -2039,12 +2039,12 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-grid.png"
          xlink:href="images/bushveld-grid.png"
-         y="118.80554"
-         x="215.5"
-         id="image833"
-         preserveAspectRatio="none"
+         width="94"
          height="39.938072"
-         width="94" />
+         preserveAspectRatio="none"
+         id="image833"
+         x="215.5"
+         y="118.80554" />
     </g>
     <g
        id="g1000">
@@ -2060,7 +2060,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan1958">Join our <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
-   id="tspan2674"></tspan></tspan><tspan
+   id="tspan2674" /></tspan><tspan
            sodipodi:role="line"
            x="129.28604"
            y="143.024"
@@ -2110,7 +2110,7 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan1958-0">Attend a <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
-   id="tspan2676-7"></tspan></tspan><tspan
+   id="tspan2676-7" /></tspan><tspan
            sodipodi:role="line"
            x="159.3394"
            y="143.024"
@@ -2151,12 +2151,12 @@
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-points.png"
          xlink:href="images/bushveld-points.png"
-         y="70.503922"
-         x="215.5"
-         id="image819"
-         preserveAspectRatio="none"
+         width="94"
          height="39.201794"
-         width="94" />
+         preserveAspectRatio="none"
+         id="image819"
+         x="215.5"
+         y="70.503922" />
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -2172,21 +2172,21 @@
     <image
        sodipodi:absref="/home/leo/talk/egu2021/images/gravity-diturbance.png"
        xlink:href="images/gravity-diturbance.png"
-       y="122.52654"
-       x="11.701939"
-       id="image1050"
-       preserveAspectRatio="none"
+       width="91.995485"
        height="41"
-       width="91.995485" />
+       preserveAspectRatio="none"
+       id="image1050"
+       x="11.701939"
+       y="122.52654" />
     <image
        sodipodi:absref="/home/leo/talk/egu2021/images/normal-gravity.png"
        xlink:href="images/normal-gravity.png"
-       y="71.209465"
-       x="10.886099"
-       id="image1064"
-       preserveAspectRatio="none"
+       width="91.34763"
        height="41"
-       width="91.34763" />
+       preserveAspectRatio="none"
+       id="image1064"
+       x="10.886099"
+       y="71.209465" />
     <text
        xml:space="preserve"
        style="font-size:3.52778px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -2198,5 +2198,24 @@
          y="117.7136"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.52778px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1694-4-7">Normal gravity (WGS84) at the surface of the Earth.</tspan></text>
+    <path
+       d="m 308.40832,174.5264 v 1.01063 h -0.28207 v 1.20099 h -0.76843 v -1.19999 h -0.28206 v -1.01163 c 0,-0.0438 0.0159,-0.0817 0.0458,-0.11263 0.0309,-0.0309 0.0687,-0.0469 0.11262,-0.0469 h 1.01561 c 0.041,0 0.0778,0.0159 0.11063,0.0469 0.0309,0.0319 0.0478,0.0688 0.0478,0.11263 z m -1.01163,-0.63488 c 0,-0.23222 0.11462,-0.34883 0.34385,-0.34883 0.22924,0 0.34386,0.11661 0.34386,0.34883 0,0.22924 -0.11462,0.34385 -0.34386,0.34385 -0.22923,0 -0.34385,-0.11461 -0.34385,-0.34385 z m 0.34086,-1.22292 c 1.41328,0 2.47574,1.09734 2.47574,2.47175 0,1.46611 -1.18105,2.47176 -2.47574,2.47176 -1.33554,0 -2.46776,-1.09136 -2.46776,-2.47176 0,-1.32458 1.04351,-2.47175 2.46776,-2.47175 z m 0.008,0.44551 c -1.17807,0 -2.03024,0.97575 -2.03024,2.02624 0,1.09435 0.90898,2.02125 2.03024,2.02125 1.02857,0 2.02125,-0.80829 2.02125,-2.02125 8.2e-4,-1.13421 -0.899,-2.02624 -2.02125,-2.02624 z"
+       id="path352"
+       style="fill:#ffffff;stroke-width:0.00996676" />
+    <path
+       d="m 302.41167,174.72992 -0.3311,0.17223 c -0.094,-0.19515 -0.25156,-0.19863 -0.27369,-0.19863 -0.22057,0 -0.33109,0.14562 -0.33109,0.43692 0,0.23492 0.0918,0.43695 0.33109,0.43695 0.14422,0 0.24567,-0.0706 0.30468,-0.21189 l 0.30448,0.15448 c -0.0615,0.11472 -0.25604,0.38851 -0.64883,0.38851 -0.22525,0 -0.73714,-0.10286 -0.73714,-0.76794 0,-0.58495 0.42856,-0.76804 0.72389,-0.76804 0.30617,-1.1e-4 0.52525,0.11909 0.65771,0.35741 z m 1.42574,0 -0.32671,0.17223 c -0.0947,-0.19704 -0.25635,-0.19863 -0.27808,-0.19863 -0.22066,0 -0.33109,0.14562 -0.33109,0.43692 0,0.23473 0.092,0.43695 0.33109,0.43695 0.14402,0 0.24568,-0.0706 0.30439,-0.21189 l 0.30897,0.15448 c -0.0209,0.0373 -0.21319,0.38851 -0.64874,0.38851 -0.22614,0 -0.73714,-0.0984 -0.73714,-0.76794 0,-0.58476 0.42827,-0.76804 0.72388,-0.76804 0.30608,-1.1e-4 0.52406,0.11909 0.65343,0.35741 z m -1.40851,-2.06131 c -1.42345,0 -2.46737,1.14676 -2.46737,2.47174 0,1.3803 1.13222,2.47175 2.46737,2.47175 1.29499,0 2.47614,-1.00534 2.47614,-2.47175 0,-1.37412 -1.06265,-2.47174 -2.47614,-2.47174 z m 0.009,4.49311 c -1.12165,0 -2.03022,-0.92732 -2.03022,-2.02136 0,-1.0507 0.85146,-2.02595 2.03042,-2.02595 1.12155,0 2.02146,0.89163 2.02146,2.02584 -1.1e-4,1.21286 -0.99349,2.02147 -2.02166,2.02147 z"
+       id="path363"
+       style="fill:#ffffff;stroke-width:0.00996668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76966px;line-height:1.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.129828px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;stroke-width:0.109162;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+       x="298.77374"
+       y="176.30615"
+       id="text567-3-3"><tspan
+         sodipodi:role="line"
+         x="298.90356"
+         y="176.30615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76966px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.109162"
+         id="tspan1121-6">License: CC-BY</tspan></text>
   </g>
 </svg>
