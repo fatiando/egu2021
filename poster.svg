@@ -1597,52 +1597,52 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.5;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
        x="215.86505"
-       y="28.549397"
+       y="29.078564"
        id="text1229-4"><tspan
          sodipodi:role="line"
          id="tspan1227-7"
          x="215.86505"
-         y="28.549397"
+         y="29.078564"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583">• Processing, modeling, &amp; inversion</tspan><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="35.428562"
+         y="35.957729"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1247-9">• Equivalent-source interpolation</tspan><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="42.307728"
+         y="42.836895"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1968">• Forward modeling using prisms, tesseroids</tspan><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="49.186893"
+         y="49.716061"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1972">• [future] Non-linear (geometry) inversion </tspan><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="56.066055"
+         y="56.595222"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1243-2" /><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="62.945221"
+         y="63.474388"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1231-7" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
        x="215.86505"
-       y="58.778378"
+       y="58.24921"
        id="text1229-0-9"><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="58.778378"
+         y="58.24921"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan2008">Opinionated design to encourage current best </tspan><tspan
          sodipodi:role="line"
          x="215.86505"
-         y="64.740318"
+         y="64.211151"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan769">practices in gravity and magnetics.</tspan></text>
     <text
@@ -1705,90 +1705,87 @@
          x="280.89554"
          y="92.208618"
          style="font-size:4.23333px;fill:#ffffff;stroke-width:0.1826" /></text>
-    <g
-       id="g381"
-       transform="matrix(0.92307691,0,0,0.92307691,-81.148289,28.358695)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62061px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.163238px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.137254"
-         x="261.45187"
-         y="39.081635"
-         id="text567"><tspan
-           sodipodi:role="line"
-           x="261.45187"
-           y="39.081635"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62061px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.137254"
-           id="tspan176"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.62061px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Medium';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.137254"
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;line-height:1.5;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0.150681px;word-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.126696"
+       x="160.41478"
+       y="59.671547"
+       id="text567"><tspan
+         sodipodi:role="line"
+         x="160.41478"
+         y="59.671547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         id="tspan176"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Medium';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.126696"
    id="tspan242">Leonardo Uieda¹, </tspan>Santiago R. Soler²³,</tspan><tspan
-           sodipodi:role="line"
-           x="261.45187"
-           y="44.638382"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62061px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.137254"
-           id="tspan252">Agustina Pesce²³, Lorenzo Perozzi⁴,</tspan><tspan
-           sodipodi:role="line"
-           x="261.53348"
-           y="50.195133"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.62061px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.137254"
-           id="tspan173">Mark A. Wieczorek⁵</tspan></text>
-      <g
-         id="g1273">
-        <image
-           sodipodi:absref="/home/leo/talk/egu2021/images/headshot-mark.jpg"
-           xlink:href="images/headshot-mark.jpg"
-           transform="matrix(1.0818765,0,0,1.0818765,-34.378243,-60.112103)"
-           clip-path="url(#clipPath643)"
-           y="64.778275"
-           x="298.39276"
-           id="image463"
-           preserveAspectRatio="none"
-           height="20"
-           width="20" />
-        <image
-           sodipodi:absref="/home/leo/talk/egu2021/images/headshot-lorenzo.png"
-           xlink:href="images/headshot-lorenzo.png"
-           transform="matrix(1.0818765,0,0,1.0818765,-33.529608,-58.70685)"
-           clip-path="url(#clipPath639)"
-           y="63.479362"
-           x="280.0574"
-           id="image477"
-           preserveAspectRatio="none"
-           height="20"
-           width="20" />
-        <image
-           sodipodi:absref="/home/leo/talk/egu2021/images/headshot-agustina.jpg"
-           xlink:href="images/headshot-agustina.jpg"
-           transform="matrix(1.0818765,0,0,1.0818765,-68.683636,-44.123844)"
-           clip-path="url(#clipPath635)"
-           y="50"
-           x="295"
-           id="image491"
-           preserveAspectRatio="none"
-           height="20"
-           width="20" />
-        <image
-           sodipodi:absref="/home/leo/talk/egu2021/images/headshot-santiago.jpg"
-           xlink:href="images/headshot-santiago.jpg"
-           transform="matrix(1.0818765,0,0,1.0818765,-49.805923,-22.486314)"
-           clip-path="url(#clipPath631)"
-           y="30"
-           x="260"
-           id="image449"
-           preserveAspectRatio="none"
-           height="20"
-           width="20" />
-        <image
-           sodipodi:absref="/home/leo/talk/egu2021/images/headshot-leo.jpg"
-           xlink:href="images/headshot-leo.jpg"
-           transform="matrix(0.72726609,0,0,0.72726609,8.7692767,2.6070943)"
-           clip-path="url(#clipPath537)"
-           y="10"
-           x="280"
-           id="image55"
-           preserveAspectRatio="none"
-           height="30"
-           width="30" />
-      </g>
+         sodipodi:role="line"
+         x="160.41478"
+         y="64.80085"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         id="tspan252">Agustina Pesce²³, Lorenzo Perozzi⁴,</tspan><tspan
+         sodipodi:role="line"
+         x="160.49013"
+         y="69.930153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3421px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Normal';font-variant-ligatures:discretionary-ligatures;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.126696"
+         id="tspan173">Mark A. Wieczorek⁵</tspan></text>
+    <g
+       id="g960"
+       transform="translate(3.3494035)">
+      <image
+         sodipodi:absref="/home/leo/talk/egu2021/images/headshot-mark.jpg"
+         xlink:href="images/headshot-mark.jpg"
+         transform="matrix(0.80666696,0,0,0.80666696,-59.938185,-14.904886)"
+         clip-path="url(#clipPath643)"
+         y="64.778275"
+         x="298.39276"
+         id="image463"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
+      <image
+         sodipodi:absref="/home/leo/talk/egu2021/images/headshot-lorenzo.png"
+         xlink:href="images/headshot-lorenzo.png"
+         transform="matrix(0.80666696,0,0,0.80666696,-61.238391,-13.963202)"
+         clip-path="url(#clipPath639)"
+         y="63.479362"
+         x="280.0574"
+         id="image477"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
+      <image
+         sodipodi:absref="/home/leo/talk/egu2021/images/headshot-agustina.jpg"
+         xlink:href="images/headshot-agustina.jpg"
+         transform="matrix(0.80666696,0,0,0.80666696,-89.382823,-2.8448043)"
+         clip-path="url(#clipPath635)"
+         y="50"
+         x="295"
+         id="image491"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
+      <image
+         sodipodi:absref="/home/leo/talk/egu2021/images/headshot-santiago.jpg"
+         xlink:href="images/headshot-santiago.jpg"
+         transform="matrix(0.80666696,0,0,0.80666696,-77.240212,13.138503)"
+         clip-path="url(#clipPath631)"
+         y="30"
+         x="260"
+         id="image449"
+         preserveAspectRatio="none"
+         height="20"
+         width="20" />
+      <image
+         sodipodi:absref="/home/leo/talk/egu2021/images/headshot-leo.jpg"
+         xlink:href="images/headshot-leo.jpg"
+         transform="matrix(0.53778123,0,0,0.53778123,-34.176312,31.832799)"
+         clip-path="url(#clipPath537)"
+         y="10"
+         x="280"
+         id="image55"
+         preserveAspectRatio="none"
+         height="30"
+         width="30" />
     </g>
     <text
        xml:space="preserve"
@@ -1805,25 +1802,25 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.5;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="9.8532686"
-       y="29.277233"
+       y="29.078564"
        id="text1229"><tspan
          sodipodi:role="line"
          id="tspan1227"
          x="9.8532686"
-         y="29.277233"
+         y="29.078564"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583">• Defines planetary reference <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'"
    id="tspan1761">ellipsoids</tspan></tspan><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="36.156399"
+         y="35.957729"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1237">• Calculates <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:Roboto"
    id="tspan1767">normal gravity</tspan> at any point</tspan><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="43.035564"
+         y="42.836895"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1247"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -1832,17 +1829,17 @@
    id="tspan1775">No free-air</tspan> corrections needed</tspan><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="49.91473"
+         y="49.716061"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan2024">• Spheres, oblate &amp; [future] tri-axial ellipsoids</tspan><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="56.793892"
+         y="56.595222"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1243" /><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="63.673058"
+         y="63.474388"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1231" /></text>
     <text
@@ -1860,16 +1857,16 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
        x="9.8532686"
-       y="59.50621"
+       y="58.24921"
        id="text1229-0"><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="59.50621"
+         y="58.24921"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1231-8">Born out of shared necessity in the geophysics</tspan><tspan
          sodipodi:role="line"
          x="9.8532686"
-         y="65.468155"
+         y="64.211151"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
          id="tspan1660">Python community (SHTools and Harmonica). </tspan></text>
     <text
@@ -1887,18 +1884,18 @@
        xml:space="preserve"
        style="font-size:4.58611px;line-height:1.4;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583"
        x="159.90736"
-       y="100.02145"
+       y="98.433945"
        id="text1229-0-1-1"><tspan
          sodipodi:role="line"
          x="159.90736"
-         y="100.02145"
+         y="98.433945"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          id="tspan703"><tspan
    id="tspan763"
    style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583">We are still evolving our goals and scope. </tspan></tspan><tspan
          sodipodi:role="line"
          x="159.90736"
-         y="106.442"
+         y="104.8545"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          id="tspan765">Input from the community is welcome!</tspan></text>
     <text
@@ -1916,7 +1913,7 @@
        style="stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        inkscape:label="Layer 1"
        id="layer1-5"
-       transform="matrix(0.12015019,0,0,0.12015019,185.86014,43.533656)">
+       transform="matrix(0.12015019,0,0,0.12015019,185.86014,42.475322)">
       <path
          inkscape:export-ydpi="450"
          inkscape:export-xdpi="450"
@@ -2006,39 +2003,39 @@
        xml:space="preserve"
        style="font-size:3.88056px;line-height:1.5;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
        x="181.45862"
-       y="162.31067"
+       y="161.25235"
        id="text1229-0-1-7-3-1"><tspan
          sodipodi:role="line"
          x="181.45862"
-         y="162.31067"
+         y="161.25235"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:end;letter-spacing:0px;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
          id="tspan1557-1-8-0">Part of the <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.88056px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;letter-spacing:0px;text-anchor:end"
    id="tspan2650">Fatiando a Terra</tspan> project</tspan><tspan
          sodipodi:role="line"
          x="181.45862"
-         y="168.86847"
+         y="167.81015"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
          id="tspan2652">www.fatiando.org</tspan></text>
     <g
        id="g895"
-       transform="translate(0,1.6043241)">
+       transform="translate(0,1.6043271)">
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
-         x="263.09625"
+         x="260.89395"
          y="163.59999"
          id="text1229-0-4-0-0"><tspan
            sodipodi:role="line"
-           x="263.09625"
+           x="260.89395"
            y="163.59999"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
-           id="tspan1694-4-2">Residual Bouguer disturbances (topography modelled with prisms) </tspan><tspan
+           id="tspan1028">Final product: topographic correction with prisms, 2nd order trend </tspan><tspan
            sodipodi:role="line"
-           x="263.09625"
+           x="260.89395"
            y="167.72749"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
-           id="tspan880">gridded to a constant height with equivalent sources.</tspan></text>
+           id="tspan1022">removal, and gridding to constant height with equivalent sources.</tspan></text>
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-grid.png"
          xlink:href="images/bushveld-grid.png"
@@ -2050,54 +2047,53 @@
          width="94" />
     </g>
     <g
-       id="g743"
-       transform="translate(-0.65522151,-3.2533393)">
+       id="g1000">
       <text
          xml:space="preserve"
          style="font-size:4.58611px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
-         x="129.94127"
-         y="141.90289"
+         x="129.28604"
+         y="137.06206"
          id="text1229-0-1-7"><tspan
            sodipodi:role="line"
-           x="129.94127"
-           y="141.90289"
+           x="129.28604"
+           y="137.06206"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan1958">Join our <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
    id="tspan2674"></tspan></tspan><tspan
            sodipodi:role="line"
-           x="129.94127"
-           y="147.86484"
+           x="129.28604"
+           y="143.024"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan542"><tspan
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
              id="tspan544">Slack</tspan></tspan></text>
       <path
-         d="m 164.19885,125.29604 h -0.46922 c -0.25884,0 -0.46818,0.20976 -0.46818,0.4687 v 1.40625 c 0,2.19139 -1.88934,3.94977 -4.12477,3.73181 -1.94822,-0.19016 -3.37526,-1.94149 -3.37526,-3.8988 v -1.23926 c 0,-0.25894 -0.20934,-0.4687 -0.46818,-0.4687 h -0.46922 c -0.25884,0 -0.46818,0.20976 -0.46818,0.4687 v 1.17656 c 0,2.62615 1.87408,4.96725 4.45311,5.32292 v 1.00051 h -1.6406 c -0.25884,0 -0.46922,0.20975 -0.46922,0.4687 v 0.4688 c 0,0.25895 0.20935,0.4688 0.46922,0.4688 h 4.68741 c 0.25884,0 0.46922,-0.20975 0.46922,-0.4688 v -0.4688 c 0,-0.25895 -0.20934,-0.4687 -0.46922,-0.4687 h -1.6406 v -0.98938 c 2.51108,-0.34454 4.45311,-2.49987 4.45311,-5.10435 v -1.40625 c 0,-0.25894 -0.20934,-0.4687 -0.46818,-0.4687 z m -4.68752,4.68747 c 1.55337,0 2.81251,-1.25917 2.81251,-2.81248 h -2.49994 c -0.17221,0 -0.31246,-0.10488 -0.31246,-0.2344 v -0.4687 c 0,-0.12953 0.14025,-0.2344 0.31246,-0.2344 h 2.49994 v -0.93751 h -2.49994 c -0.17221,0 -0.31246,-0.10487 -0.31246,-0.2344 v -0.4687 c 0,-0.12952 0.14025,-0.2344 0.31246,-0.2344 h 2.49994 v -0.9375 h -2.49994 c -0.17221,0 -0.31246,-0.10488 -0.31246,-0.23441 v -0.4687 c 0,-0.12952 0.14025,-0.2344 0.31246,-0.2344 h 2.49994 c 0,-1.55331 -1.25914,-2.81248 -2.81251,-2.81248 -1.55325,0 -2.81251,1.25917 -2.81251,2.81248 v 4.68748 c 0,1.55331 1.25926,2.81248 2.81251,2.81248 z"
+         d="m 162.91872,119.70523 h -0.40666 c -0.22432,0 -0.40575,0.1818 -0.40575,0.40621 v 1.21875 c 0,1.89921 -1.63743,3.42313 -3.5748,3.23423 -1.68846,-0.1648 -2.92523,-1.68262 -2.92523,-3.37896 v -1.07402 c 0,-0.22442 -0.18143,-0.40621 -0.40576,-0.40621 h -0.40665 c -0.22433,0 -0.40576,0.18179 -0.40576,0.40621 v 1.01968 c 0,2.27599 1.6242,4.30495 3.85936,4.6132 v 0.8671 h -1.42185 c -0.22433,0 -0.40666,0.18179 -0.40666,0.4062 v 0.4063 c 0,0.22442 0.18144,0.40629 0.40666,0.40629 h 4.06242 c 0.22433,0 0.40666,-0.18178 0.40666,-0.40629 v -0.4063 c 0,-0.22441 -0.18142,-0.4062 -0.40666,-0.4062 h -1.42185 v -0.85747 c 2.17627,-0.29859 3.85936,-2.16655 3.85936,-4.42376 v -1.21875 c 0,-0.22442 -0.18142,-0.40621 -0.40575,-0.40621 z m -4.06251,4.06248 c 1.34625,0 2.4375,-1.09129 2.4375,-2.43749 h -2.16661 c -0.14925,0 -0.2708,-0.0909 -0.2708,-0.20314 v -0.40621 c 0,-0.11227 0.12155,-0.20315 0.2708,-0.20315 h 2.16661 v -0.8125 h -2.16661 c -0.14925,0 -0.2708,-0.0909 -0.2708,-0.20315 v -0.40621 c 0,-0.11225 0.12155,-0.20315 0.2708,-0.20315 h 2.16661 v -0.8125 h -2.16661 c -0.14925,0 -0.2708,-0.0909 -0.2708,-0.20316 v -0.4062 c 0,-0.11225 0.12155,-0.20315 0.2708,-0.20315 h 2.16661 c 0,-1.3462 -1.09125,-2.43748 -2.4375,-2.43748 -1.34616,0 -2.43752,1.09128 -2.43752,2.43748 v 4.06249 c 0,1.3462 1.09136,2.43748 2.43752,2.43748 z"
          id="path402"
-         style="fill:#ffffff;stroke-width:0.0292967" />
+         style="fill:#ffffff;stroke-width:0.0253905" />
       <path
-         d="m 187.07801,130.87221 c 0,0.0605 -0.0695,0.10887 -0.15725,0.10887 -0.0998,0.009 -0.16936,-0.0393 -0.16936,-0.10887 0,-0.0605 0.0696,-0.10887 0.15726,-0.10887 0.0907,-0.009 0.16935,0.0393 0.16935,0.10887 z m -0.94052,-0.13609 c -0.0212,0.0605 0.0393,0.13003 0.13003,0.14818 0.0786,0.0302 0.16936,0 0.1875,-0.0605 0.0181,-0.0605 -0.0393,-0.13003 -0.13003,-0.15725 -0.0786,-0.0212 -0.16633,0.009 -0.1875,0.0696 z m 1.33669,-0.0514 c -0.0877,0.0212 -0.14818,0.0786 -0.13911,0.14818 0.009,0.0605 0.0877,0.0998 0.17843,0.0786 0.0877,-0.0212 0.14818,-0.0786 0.13911,-0.13911 -0.009,-0.0575 -0.0907,-0.0968 -0.17843,-0.0877 z m 1.98992,-11.58871 c -4.19455,0 -7.40322,3.18448 -7.40322,7.37903 0,3.35383 2.11088,6.22379 5.126,7.23387 0.3871,0.0695 0.52319,-0.16935 0.52319,-0.36592 0,-0.1875 -0.009,-1.22178 -0.009,-1.85686 0,0 -2.11694,0.45363 -2.56149,-0.90121 0,0 -0.34476,-0.88004 -0.84073,-1.10685 0,0 -0.69254,-0.4748 0.0484,-0.46573 0,0 0.75303,0.0605 1.16734,0.78024 0.6623,1.16734 1.77218,0.83166 2.20464,0.63206 0.0696,-0.48387 0.26613,-0.81956 0.48387,-1.01915 -1.69053,-0.1875 -3.39617,-0.43246 -3.39617,-3.34174 0,-0.83165 0.22984,-1.24899 0.71371,-1.78125 -0.0786,-0.19657 -0.33569,-1.00705 0.0786,-2.05342 0.63205,-0.19658 2.08669,0.81653 2.08669,0.81653 0.60484,-0.16936 1.25504,-0.25706 1.89919,-0.25706 0.64416,0 1.29436,0.0877 1.8992,0.25706 0,0 1.45463,-1.01613 2.08669,-0.81653 0.41432,1.04939 0.15726,1.85685 0.0786,2.05342 0.48387,0.53529 0.78024,0.95262 0.78024,1.78125 0,2.91835 -1.78125,3.15121 -3.47177,3.34174 0.27822,0.23891 0.51411,0.69254 0.51411,1.40322 0,1.01915 -0.009,2.28024 -0.009,2.52823 0,0.19657 0.13911,0.43548 0.52319,0.36593 3.02419,-1.00404 5.0746,-3.874 5.0746,-7.22783 0,-4.19455 -3.40222,-7.37903 -7.59678,-7.37903 z m -4.46371,10.43044 c -0.0393,0.0302 -0.0302,0.0998 0.0212,0.15726 0.0484,0.0484 0.11795,0.0696 0.15726,0.0302 0.0393,-0.0302 0.0302,-0.0998 -0.0212,-0.15726 -0.0484,-0.0484 -0.11794,-0.0696 -0.15726,-0.0302 z m -0.32661,-0.24496 c -0.0212,0.0393 0.009,0.0877 0.0696,0.11795 0.0484,0.0302 0.10887,0.0212 0.13003,-0.0212 0.0212,-0.0393 -0.009,-0.0877 -0.0695,-0.11795 -0.0605,-0.0181 -0.10887,-0.009 -0.13003,0.0212 z m 0.97984,1.07662 c -0.0484,0.0393 -0.0302,0.13003 0.0393,0.1875 0.0696,0.0696 0.15726,0.0786 0.19657,0.0302 0.0393,-0.0393 0.0212,-0.13004 -0.0393,-0.1875 -0.0665,-0.0696 -0.15726,-0.0786 -0.19657,-0.0302 z m -0.34476,-0.44456 c -0.0484,0.0302 -0.0484,0.10887 0,0.17843 0.0484,0.0695 0.13003,0.0998 0.16935,0.0695 0.0484,-0.0393 0.0484,-0.11795 0,-0.1875 -0.0423,-0.0695 -0.12096,-0.0998 -0.16935,-0.0605 z"
+         d="m 186.75405,124.46117 c 0,0.0524 -0.0602,0.0944 -0.13628,0.0944 -0.0865,0.008 -0.14678,-0.0341 -0.14678,-0.0944 0,-0.0524 0.0603,-0.0943 0.13629,-0.0943 0.0786,-0.008 0.14677,0.0341 0.14677,0.0943 z m -0.81511,-0.11794 c -0.0184,0.0524 0.0341,0.11269 0.11269,0.12842 0.0681,0.0262 0.14678,0 0.1625,-0.0524 0.0157,-0.0524 -0.0341,-0.1127 -0.11269,-0.13629 -0.0681,-0.0184 -0.14415,0.008 -0.1625,0.0603 z m 1.15846,-0.0446 c -0.076,0.0184 -0.12843,0.0681 -0.12057,0.12842 0.008,0.0524 0.076,0.0865 0.15464,0.0681 0.076,-0.0184 0.12842,-0.0681 0.12056,-0.12056 -0.008,-0.0498 -0.0786,-0.0839 -0.15463,-0.076 z m 1.72458,-10.04348 c -3.63525,0 -6.41608,2.75986 -6.41608,6.39512 0,2.90663 1.82942,5.39391 4.4425,6.26931 0.33549,0.0602 0.45343,-0.14677 0.45343,-0.31713 0,-0.1625 -0.008,-1.05887 -0.008,-1.60927 0,0 -1.83467,0.39315 -2.21994,-0.78104 0,0 -0.29879,-0.7627 -0.72863,-0.95926 0,0 -0.6002,-0.4115 0.042,-0.40364 0,0 0.65262,0.0524 1.01169,0.6762 0.57398,1.01169 1.53587,0.72077 1.91067,0.54778 0.0603,-0.41934 0.23065,-0.71028 0.41935,-0.88326 -1.46511,-0.1625 -2.94333,-0.37479 -2.94333,-2.89615 0,-0.72076 0.1992,-1.08245 0.61855,-1.54374 -0.0681,-0.17036 -0.29093,-0.87277 0.0681,-1.77962 0.54777,-0.17037 1.80845,0.70765 1.80845,0.70765 0.52419,-0.14677 1.08769,-0.22278 1.64595,-0.22278 0.55827,0 1.12178,0.076 1.64597,0.22278 0,0 1.26067,-0.88064 1.80845,-0.70765 0.35907,0.90946 0.13629,1.60926 0.0681,1.77962 0.41935,0.46391 0.6762,0.8256 0.6762,1.54374 0,2.52922 -1.54374,2.73103 -3.00884,2.89615 0.24112,0.20706 0.44555,0.6002 0.44555,1.21612 0,0.88326 -0.008,1.97619 -0.008,2.19112 0,0.17036 0.12057,0.37741 0.45343,0.31713 2.62095,-0.87016 4.39796,-3.35744 4.39796,-6.26407 0,-3.63526 -2.94857,-6.39512 -6.58383,-6.39512 z m -3.86852,9.03964 c -0.0341,0.0262 -0.0262,0.0865 0.0184,0.13631 0.0419,0.0419 0.10222,0.0603 0.13629,0.0262 0.0341,-0.0262 0.0262,-0.0865 -0.0184,-0.13629 -0.042,-0.042 -0.10221,-0.0603 -0.13629,-0.0262 z m -0.28306,-0.21229 c -0.0184,0.0341 0.008,0.076 0.0603,0.10223 0.0419,0.0262 0.0943,0.0184 0.11269,-0.0184 0.0184,-0.0341 -0.008,-0.076 -0.0602,-0.10224 -0.0524,-0.0157 -0.0944,-0.008 -0.1127,0.0184 z m 0.84919,0.93306 c -0.0419,0.0341 -0.0262,0.11269 0.0341,0.1625 0.0603,0.0603 0.13629,0.0681 0.17036,0.0262 0.0341,-0.0341 0.0184,-0.1127 -0.0341,-0.1625 -0.0576,-0.0603 -0.13629,-0.0681 -0.17036,-0.0262 z m -0.29879,-0.38527 c -0.0419,0.0262 -0.0419,0.0943 0,0.15464 0.0419,0.0602 0.11269,0.0865 0.14677,0.0602 0.0419,-0.0341 0.0419,-0.10222 0,-0.16249 -0.0367,-0.0602 -0.10484,-0.0865 -0.14677,-0.0524 z"
          id="path413"
-         style="fill:#ffffff;stroke-width:0.0302419" />
+         style="fill:#ffffff;stroke-width:0.0262095" />
       <path
-         d="m 125.11451,128.86232 c 0,0.86718 -0.70848,1.57566 -1.57567,1.57566 -0.86719,0 -1.57567,-0.70848 -1.57567,-1.57566 0,-0.86719 0.70848,-1.57567 1.57567,-1.57567 h 1.57567 z m 0.7942,0 c 0,-0.86719 0.70848,-1.57567 1.57567,-1.57567 0.86718,0 1.57567,0.70848 1.57567,1.57567 v 3.94553 c 0,0.86719 -0.70849,1.57567 -1.57567,1.57567 -0.86719,0 -1.57567,-0.70848 -1.57567,-1.57567 z m 1.57567,-6.32746 c -0.86719,0 -1.57567,-0.70848 -1.57567,-1.57567 0,-0.86719 0.70848,-1.57567 1.57567,-1.57567 0.86718,0 1.57567,0.70848 1.57567,1.57567 v 1.57567 z m 0,0.7942 c 0.86718,0 1.57567,0.70848 1.57567,1.57567 0,0.86718 -0.70849,1.57567 -1.57567,1.57567 h -3.94554 c -0.86719,0 -1.57567,-0.70849 -1.57567,-1.57567 0,-0.86719 0.70848,-1.57567 1.57567,-1.57567 z m 6.32745,1.57567 c 0,-0.86719 0.70848,-1.57567 1.57567,-1.57567 0.86719,0 1.57567,0.70848 1.57567,1.57567 0,0.86718 -0.70848,1.57567 -1.57567,1.57567 h -1.57567 z m -0.79419,0 c 0,0.86718 -0.70849,1.57567 -1.57568,1.57567 -0.86718,0 -1.57566,-0.70849 -1.57566,-1.57567 v -3.94554 c 0,-0.86719 0.70848,-1.57567 1.57566,-1.57567 0.86719,0 1.57568,0.70848 1.57568,1.57567 z m -1.57568,6.32745 c 0.86719,0 1.57568,0.70848 1.57568,1.57567 0,0.86719 -0.70849,1.57567 -1.57568,1.57567 -0.86718,0 -1.57566,-0.70848 -1.57566,-1.57567 v -1.57567 z m 0,-0.7942 c -0.86718,0 -1.57566,-0.70848 -1.57566,-1.57566 0,-0.86719 0.70848,-1.57567 1.57566,-1.57567 h 3.94554 c 0.86719,0 1.57567,0.70848 1.57567,1.57567 0,0.86718 -0.70848,1.57566 -1.57567,1.57566 z"
+         d="m 125.03911,122.75764 c 0,0.75156 -0.61401,1.36557 -1.36558,1.36557 -0.75156,0 -1.36558,-0.61401 -1.36558,-1.36557 0,-0.75156 0.61402,-1.36558 1.36558,-1.36558 h 1.36558 z m 0.68831,0 c 0,-0.75156 0.61401,-1.36558 1.36558,-1.36558 0.75155,0 1.36558,0.61402 1.36558,1.36558 v 3.41946 c 0,0.75156 -0.61403,1.36558 -1.36558,1.36558 -0.75157,0 -1.36558,-0.61402 -1.36558,-1.36558 z m 1.36558,-5.4838 c -0.75157,0 -1.36558,-0.61401 -1.36558,-1.36558 0,-0.75156 0.61401,-1.36558 1.36558,-1.36558 0.75155,0 1.36558,0.61402 1.36558,1.36558 v 1.36558 z m 0,0.68831 c 0.75155,0 1.36558,0.61401 1.36558,1.36558 0,0.75155 -0.61403,1.36558 -1.36558,1.36558 h -3.41947 c -0.75156,0 -1.36558,-0.61403 -1.36558,-1.36558 0,-0.75157 0.61402,-1.36558 1.36558,-1.36558 z m 5.48379,1.36558 c 0,-0.75157 0.61401,-1.36558 1.36558,-1.36558 0.75156,0 1.36558,0.61401 1.36558,1.36558 0,0.75155 -0.61402,1.36558 -1.36558,1.36558 h -1.36558 z m -0.6883,0 c 0,0.75155 -0.61402,1.36558 -1.36559,1.36558 -0.75155,0 -1.36557,-0.61403 -1.36557,-1.36558 v -3.41947 c 0,-0.75156 0.61402,-1.36558 1.36557,-1.36558 0.75157,0 1.36559,0.61402 1.36559,1.36558 z m -1.36559,5.48379 c 0.75157,0 1.36559,0.61401 1.36559,1.36558 0,0.75156 -0.61402,1.36558 -1.36559,1.36558 -0.75155,0 -1.36557,-0.61402 -1.36557,-1.36558 v -1.36558 z m 0,-0.68831 c -0.75155,0 -1.36557,-0.61401 -1.36557,-1.36557 0,-0.75156 0.61402,-1.36558 1.36557,-1.36558 h 3.41947 c 0.75156,0 1.36558,0.61402 1.36558,1.36558 0,0.75156 -0.61402,1.36557 -1.36558,1.36557 z"
          id="path424"
-         style="fill:#ffffff;stroke-width:0.0334821" />
+         style="fill:#ffffff;stroke-width:0.0290178" />
       <text
          xml:space="preserve"
          style="font-size:4.58611px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="189.93266"
-         y="141.90289"
+         x="189.27744"
+         y="137.06206"
          id="text1229-0-1-7-3"><tspan
            sodipodi:role="line"
-           x="189.93266"
-           y="141.90289"
+           x="189.27744"
+           y="137.06206"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan1958-5">Contribute </tspan><tspan
            sodipodi:role="line"
-           x="189.93266"
-           y="147.86484"
+           x="189.27744"
+           y="143.024"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan546">on <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
@@ -2105,26 +2101,26 @@
       <text
          xml:space="preserve"
          style="font-size:4.58611px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="159.99463"
-         y="141.90289"
+         x="159.3394"
+         y="137.06206"
          id="text1229-0-1-7-2"><tspan
            sodipodi:role="line"
-           x="159.99463"
-           y="141.90289"
+           x="159.3394"
+           y="137.06206"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan1958-0">Attend a <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
    id="tspan2676-7"></tspan></tspan><tspan
            sodipodi:role="line"
-           x="159.99463"
-           y="147.86484"
+           x="159.3394"
+           y="143.024"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan534"><tspan
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
              id="tspan536">community </tspan></tspan><tspan
            sodipodi:role="line"
-           x="159.99463"
-           y="153.82678"
+           x="159.3394"
+           y="148.98595"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
            id="tspan538"><tspan
              style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle"
@@ -2132,7 +2128,7 @@
     </g>
     <g
        id="g683"
-       transform="translate(7.1163033)">
+       transform="translate(7.1163033,-0.52916993)">
       <text
          xml:space="preserve"
          style="font-size:7.05556px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:discretionary-ligatures;letter-spacing:0.264583px;word-spacing:0px;display:inline;fill:#ffffff;stroke-width:0.500537"
@@ -2151,7 +2147,7 @@
     </g>
     <g
        id="g889"
-       transform="translate(0,0.17637342)">
+       transform="translate(0,0.70554009)">
       <image
          sodipodi:absref="/home/leo/talk/egu2021/images/bushveld-points.png"
          xlink:href="images/bushveld-points.png"
@@ -2164,11 +2160,11 @@
       <text
          xml:space="preserve"
          style="font-size:3.175px;line-height:1.3;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono';font-variant-ligatures:discretionary-ligatures;letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="218.31046"
+         x="215.40277"
          y="114.59462"
          id="text1229-0-4-0-0-6"><tspan
            sodipodi:role="line"
-           x="218.31046"
+           x="215.40277"
            y="114.59462"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.175px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#ffffff;stroke-width:0.264583"
            id="tspan1694-4-2-1">Observed gravity values for the Bushveld Complex, South Africa.</tspan></text>
