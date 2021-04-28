@@ -49,23 +49,56 @@ ellipsoids because I don't encounter them in my own work.
 
 ---
 
+Harmonica is our library for processing, modelling, and inversion of potential
+field data.
+
+At the moment, it includes forward modelling functions for prisms, tesseroids,
+and point sources, topographic correction, equivalent-source methods for
+interpolation and upward continuation, and more.
+
+In the bottom right, you'll find an example of using Boule and Harmonica to
+process gravity data from the Bushveld Complex in South Africa.
+
+The final product is a grid of residual Bouguer disturbances calculated using
+prisms for topographic correction, a 2nd order trend removal for
+regional-residual separation, and gridding to a constant height using
+equivalent-sources.
+
+Many of our functions and classes are highly optimized using just-in-time
+compilation and automatic parallelization where possible.
+
+We are also developing new methods for equivalent-source processing that can
+enable application to millions of data points without breaking your computer.
+
+If you want to learn more about that, Santiago is giving a talk about it on
+Friday at session G4.3.
+
+With Harmonica, we are trying to have an opinionated design of the code and
+documentation to encourage best practices in gravity and magnetics.
+
+This means that we try not to set unreasonable defaults, encourage users to
+understand the methods, and avoid adding functionality that should probably not
+be used anymore (like free-air corrections).
+
 ---
 
 We have been developing these tools for only a few years and are still evolving
 their goals and scope.
 
-We want to invite this community to provide input and get involved in the
-projects.
+We want to invite this community to get involved in the development, whether
+it's coding, writing documentation, trying out new features, or giving
+feedback.
 
-You can do so by joining our Slack chatroom, attending an open monthly
+You can do so by joining our Slack chat room, attending an open monthly
 community call, and engaging with development on GitHub.
 
 We are friendly and welcoming group with a range of different backgrounds.
 
-There are links and more information about all of that on our website
+There are links and more information about all of this on our website
 www.fatiando.org.
 
 There is also a link in the abstract display materials for further information,
-including a recent tutorial and the code to generate the figures shown here.
+including a recent tutorial and the code to generated all of the figures shown
+here.
 
 Thank you and we look forward to hearing from you!
