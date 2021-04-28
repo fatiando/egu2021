@@ -22,6 +22,7 @@ Mark A. Wieczorek<sup>5</sup>
 | Abstract | EGU21-8291 |
 | Session | [G1.2: Mathematical methods for the analysis of potential field data and geodetic time series](https://meetingorganizer.copernicus.org/EGU21/session/39913) |
 | When | Wednesday 28 April 2021 / 13:34 – 13:36 |
+| Poster | [Download the vPICO poster (pdf)](https://github.com/fatiando/egu2021/raw/main/vpico.pdf) |
 
 ![vPICO poster for a quick 2-minute presentation of the abstract.](https://github.com/fatiando/egu2021/raw/main/vpico.jpg)
 
