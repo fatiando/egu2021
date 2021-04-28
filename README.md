@@ -15,7 +15,7 @@ Mark A. Wieczorek<sup>5</sup>
 > <sup>4</sup>Department of Earth Science, University of Geneva, Switzerland
 > <br>
 > <sup>5</sup>Laboratoire Lagrange, Université Côte d'Azur, Observatoire de la Côte d'Azur, CNRS, Nice, France
- 
+
 | | Information |
 |---:|:----|
 | doi | [10.5194/egusphere-egu21-8291](https://doi.org/10.5194/egusphere-egu21-8291) |
@@ -23,26 +23,26 @@ Mark A. Wieczorek<sup>5</sup>
 | Session | [G1.2: Mathematical methods for the analysis of potential field data and geodetic time series](https://meetingorganizer.copernicus.org/EGU21/session/39913) |
 | When | Wednesday 28 April 2021 / 13:34 – 13:36 |
 
-![vPICO poster for a quick 2-minute presentation of the abstract.](https://github.com/fatiando/egu2021/raw/main/poster.png)
+![vPICO poster for a quick 2-minute presentation of the abstract.](https://github.com/fatiando/egu2021/raw/main/vpico.png)
 
-Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”. 
-Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions). 
-Much of this confusion likely stems from the lack of widely available tools for performing the corrections needed to arrive at a geophysically meaningful gravity disturbance. 
-For example, free-air corrections are completely unnecessary since analytical expressions for theoretical gravity at any point have existed for over a decade. 
-Since this is not easily done in a spreadsheet or short script, modern tools for processing and modelling gravity data for geophysics are needed. 
+Gravimetry is a routine part of the geophysicists toolset, historically used in geophysics following the geodetic definitions of gravity anomalies and their related “reductions”.
+Several authors have shown that the geodetic concept of a gravity anomaly does not align with goals of gravimetry in geophysics (the investigation of anomalous density distributions).
+Much of this confusion likely stems from the lack of widely available tools for performing the corrections needed to arrive at a geophysically meaningful gravity disturbance.
+For example, free-air corrections are completely unnecessary since analytical expressions for theoretical gravity at any point have existed for over a decade.
+Since this is not easily done in a spreadsheet or short script, modern tools for processing and modelling gravity data for geophysics are needed.
 These tools must be trustworthy (i.e., extensively tested) and designed with software development and geophysical best practices in mind.
 
-We present the Python libraries Harmonica and Boule, which are part of the Fatiando a Terra project (https://www.fatiando.org). 
+We present the Python libraries Harmonica and Boule, which are part of the Fatiando a Terra project (https://www.fatiando.org).
 Both tools are open-source under the permissive BSD license and are developed in the open by a community of geoscientists and programmers.
 
-Harmonica provides tools for processing, forward modelling, and inversion of gravity and magnetic data. 
-The first release of Harmonica was focused on implementing methods for processing and interpolation with the equivalent source technique, as well as forward modelling with right-rectangular prisms, point sources, and tesseroids. 
-Current work is directed towards implementing a processing pipeline for gravity data, including topographic corrections in Cartesian and spherical coordinates, atmospheric corrections, and more. 
+Harmonica provides tools for processing, forward modelling, and inversion of gravity and magnetic data.
+The first release of Harmonica was focused on implementing methods for processing and interpolation with the equivalent source technique, as well as forward modelling with right-rectangular prisms, point sources, and tesseroids.
+Current work is directed towards implementing a processing pipeline for gravity data, including topographic corrections in Cartesian and spherical coordinates, atmospheric corrections, and more.
 The software is still in early stages of development and design and would benefit greatly from community involvement and feedback.
 
-Boule implements reference ellipsoids (including oblate ellipsoids, spheres, and soon triaxial ellipsoids), conversions between ellipsoidal and geocentric spherical coordinates, and normal gravity calculations using analytical solutions for gravity fields at any point outside of the ellipsoid. 
-It includes ellipsoids for the Earth as well as other planetary bodies in the solar system, like Mars, the Moon, Venus, and Mercury. 
-This enables the calculation of gravity disturbances for Earth and planetary data without the need for free-air corrections. 
+Boule implements reference ellipsoids (including oblate ellipsoids, spheres, and soon triaxial ellipsoids), conversions between ellipsoidal and geocentric spherical coordinates, and normal gravity calculations using analytical solutions for gravity fields at any point outside of the ellipsoid.
+It includes ellipsoids for the Earth as well as other planetary bodies in the solar system, like Mars, the Moon, Venus, and Mercury.
+This enables the calculation of gravity disturbances for Earth and planetary data without the need for free-air corrections.
 Boule was created out of the shared needs of Harmonica, SHTools (https://github.com/SHTOOLS), and pygeoid (https://github.com/ioshchepkov/pygeoid) and is developed with input from developers of these projects.
 
 We welcome participation from the wider geophysical community, irrespective of programming skill level and experience, and are actively searching for interested developers and users to get involved in shaping the future of these projects.
@@ -63,9 +63,9 @@ Get involved in the project:
 
 ## Citation
 
-> Uieda, L., Soler, S. R., Pesce, A., Perozzi, L., and Wieczorek, M. A.: 
-> Harmonica and Boule: Modern Python tools for geophysical gravimetry, 
-> EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8291, 
+> Uieda, L., Soler, S. R., Pesce, A., Perozzi, L., and Wieczorek, M. A.:
+> Harmonica and Boule: Modern Python tools for geophysical gravimetry,
+> EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-8291,
 > https://doi.org/10.5194/egusphere-egu21-8291, 2021.
 
 ## License
